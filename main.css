@@ -1,6 +1,7 @@
 body{
-	background: #fff;
+	background: #abcd;
 }
-h2{
-	background: rgba(51,51,51,0.3);
+h1{
+	font-size:50px;
+	text-align: center;
 }
